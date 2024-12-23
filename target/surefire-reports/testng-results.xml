@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-23T17:18:55 IST" name="Suite" finished-at="2024-12-23T17:19:02 IST" duration-ms="7064">
+    <groups>
+    </groups>
+    <test started-at="2024-12-23T17:18:55 IST" name="Test" finished-at="2024-12-23T17:19:02 IST" duration-ms="7064">
+      <class name="com.StoreAutomation.TestCases.StoreTests2">
+        <test-method is-config="true" signature="setUP()[pri:0, instance:com.StoreAutomation.TestCases.StoreTests2@2ef14fe]" started-at="2024-12-23T17:18:56 IST" name="setUP" finished-at="2024-12-23T17:18:56 IST" duration-ms="66" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method signature="testPostStore()[pri:1, instance:com.StoreAutomation.TestCases.StoreTests2@2ef14fe]" started-at="2024-12-23T17:18:56 IST" name="testPostStore" finished-at="2024-12-23T17:19:00 IST" duration-ms="4076" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPostStore -->
+        <test-method signature="testGetStore()[pri:2, instance:com.StoreAutomation.TestCases.StoreTests2@2ef14fe]" started-at="2024-12-23T17:19:00 IST" name="testGetStore" finished-at="2024-12-23T17:19:01 IST" duration-ms="1275" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetStore -->
+        <test-method signature="testDeleteStore()[pri:3, instance:com.StoreAutomation.TestCases.StoreTests2@2ef14fe]" started-at="2024-12-23T17:19:01 IST" name="testDeleteStore" finished-at="2024-12-23T17:19:02 IST" duration-ms="1175" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDeleteStore -->
+      </class> <!-- com.StoreAutomation.TestCases.StoreTests2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,10 @@
+com\StoreAutomation\Endpoints\StoreEndPoints.class
+com\StoreAutomation\Payloads\Store.class
+com\StoreAutomation\Utilities\DataProviders.class
+com\StoreAutomation\Endpoints\StoreEndPoints2.class
+com\StoreAutomation\TestCases\StoreTests.class
+com\StoreAutomation\TestCases\DDTTests.class
+com\StoreAutomation\Utilities\XLUtility.class
+com\StoreAutomation\Endpoints\Routes.class
+com\StoreAutomation\TestCases\StoreTests2.class
+com\StoreAutomation\Utilities\Reporting.class
